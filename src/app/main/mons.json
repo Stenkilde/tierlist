@@ -1,0 +1,285 @@
+{
+  "pokemons":[
+    {
+        "dex_id": 493,
+        "name": "Arceus",
+        "item": false,
+        "tier": "uber",
+        "type": [
+            "normal"
+        ],
+        "baseStats": [
+
+        ]
+    },
+    {
+        "dex_id": 257,
+        "name": "Blaziken",
+        "tier": "uber",
+        "item": false,
+        "type": [
+            "Fire",
+            "Fighting"
+        ],
+        "baseStats": [
+
+        ]
+    },
+    {
+        "dex_id": 491,
+        "name": "Darkrai",
+        "item": false,
+        "tier": "OU",
+        "type": [
+            "Dark"
+        ],
+        "baseStats": [
+
+        ]
+    },
+    {
+        "dex_id": 386,
+        "name": "Deoxys",
+        "item": false,
+        "tier": "uber",
+        "type": [
+            "Psychic"
+        ],
+        "baseStats": [
+
+        ]
+    },
+    {
+        "dex_id": 483,
+        "name": "Dialga",
+        "tier": "uber",
+        "item": false,
+        "type": [
+            "Steel",
+            "Dragon"
+        ],
+        "baseStats": [
+
+        ]
+    },
+    {
+        "dex_id": 649,
+        "name": "Genesect",
+        "tier": "uber",
+        "item": false,
+        "type": [
+            "Bug",
+            "Steel"
+        ],
+        "baseStats": [
+
+        ]
+    },
+    {
+        "dex_id": "",
+        "name": "Gengarite",
+        "tier": "uber",
+        "item": true,
+        "type": [
+        ],
+        "baseStats": [
+        ]
+    },
+    {
+        "dex_id": 487,
+        "name": "Giratina",
+        "tier": "uber",
+        "item": false,
+        "type": [
+            "Ghost",
+            "Dragon"
+        ],
+        "baseStats": [
+        ]
+    },
+    {
+        "dex_id": 383,
+        "name": "Groudon",
+        "tier": "uber",
+        "item": false,
+        "type": [
+            "Ground",
+            "Fire"
+        ],
+        "baseStats": [
+        ]
+    },
+    {
+        "dex_id": 250,
+        "name": "Ho-Oh",
+        "tier": "uber",
+        "item": false,
+        "type": [
+            "Fire",
+            "Flying"
+        ],
+        "baseStats": [
+        ]
+    },
+    {
+        "dex_id": "",
+        "name": "Kangaskhanite ",
+        "tier": "uber",
+        "item": true,
+        "type": [
+        ],
+        "baseStats": [
+        ]
+    },
+    {
+        "dex_id": 382,
+        "name": "Kyogre",
+        "tier": "uber",
+        "item": false,
+        "type": [
+            "Water"
+        ],
+        "baseStats": [
+        ]
+    },
+    {
+        "dex_id": 646,
+        "name": "Kyurem",
+        "tier": "uber",
+        "item": false,
+        "type": [
+            "Dragon",
+            "Ice"
+        ],
+        "baseStats": [
+        ]
+    },
+    {
+        "dex_id": "",
+        "name": "Lucarionite",
+        "tier": "uber",
+        "item": true,
+        "type": [
+        ],
+        "baseStats": [
+        ]
+    },
+    {
+        "dex_id": 249,
+        "name": "Lugia",
+        "tier": "uber",
+        "item": false,
+        "type": [
+            "Psychic",
+            "Flying"
+        ],
+        "baseStats": [
+        ]
+    },
+    {
+        "dex_id": 150,
+        "name": "Mewtwo",
+        "tier": "uber",
+        "item": false,
+        "type": [
+            "Psychic"
+        ],
+        "baseStats": [
+        ]
+    },
+    {
+        "dex_id": 484,
+        "name": "Palkia",
+        "tier": "uber",
+        "item": false,
+        "type": [
+            "Water",
+            "Dragon"
+        ],
+        "baseStats": [
+        ]
+    },
+    {
+        "dex_id": 384,
+        "name": "Rayquaza",
+        "tier": "uber",
+        "item": false,
+        "type": [
+            "Dragon",
+            "flying"
+        ],
+        "baseStats": [
+        ]
+    },
+    {
+        "dex_id": 643,
+        "name": "Reshiram",
+        "tier": "uber",
+        "item": false,
+        "type": [
+            "Dragon",
+            "Fire"
+        ],
+        "baseStats": [
+        ]
+    },
+    {
+        "dex_id": 492,
+        "name": "Shaymin",
+        "tier": "uber",
+        "item": false,
+        "type": [
+            "Grass"
+        ],
+        "baseStats": [
+        ]
+    },
+    {
+        "dex_id": 716,
+        "name": "Xerneas",
+        "tier": "uber",
+        "item": false,
+        "type": [
+            "Fairy"
+        ],
+        "baseStats": [
+        ]
+    },
+    {
+        "dex_id": 717,
+        "name": "Yveltal",
+        "tier": "uber",
+        "item": false,
+        "type": [
+            "Dark",
+            "Flying"
+        ],
+        "baseStats": [
+        ]
+    },
+    {
+        "dex_id": 644,
+        "name": "Zekrom",
+        "tier": "uber",
+        "item": false,
+        "type": [
+            "Dragon",
+            "Electric"
+        ],
+        "baseStats": [
+        ]
+    },
+    {
+        "dex_id": 681,
+        "name": "Aegislash",
+        "tier": "uber",
+        "item": false,
+        "type": [
+            "Steel",
+            "Ghost"
+        ],
+        "baseStats": [
+        ]
+    }
+  ]
+}
