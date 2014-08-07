@@ -6,7 +6,7 @@
         "item": false,
         "tier": "uber",
         "type": [
-            "normal"
+            "Normal"
         ],
         "baseStats": [
 
@@ -123,7 +123,7 @@
     },
     {
         "dex_id": "",
-        "name": "Kangaskhanite ",
+        "name": "Kangaskhanite ",
         "tier": "uber",
         "item": true,
         "type": [
@@ -341,7 +341,7 @@
         ]
     },
     {
-        "dex_id": 036,
+        "dex_id": 36,
         "name": "Clefable",
         "tier": "OU",
         "item": false,
@@ -822,6 +822,6 @@
         ],
         "baseStats": [
         ]
-    },
+    }
   ]
 }

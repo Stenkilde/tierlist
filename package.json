@@ -3,6 +3,8 @@
   "version": "0.0.0",
   "dependencies": {},
   "devDependencies": {
+    "browser-sync": "~0.9.1",
+    "ecstatic": "~0.5.3",
     "gulp": "^3.6.0",
     "gulp-autoprefixer": "^0.0.7",
     "gulp-bower-files": "^0.2.1",
@@ -15,20 +17,18 @@
     "gulp-imagemin": "^0.5.0",
     "gulp-jshint": "^1.5.3",
     "gulp-load-plugins": "^0.5.0",
-    "gulp-ruby-sass": "~0.5.0",
+    "gulp-ruby-sass": "^0.7.1",
+    "gulp-sass": "~0.7.1",
     "gulp-size": "^0.3.0",
     "gulp-uglify": "^0.3.0",
     "gulp-useref": "^0.4.2",
+    "http": "0.0.0",
     "jshint-stylish": "^0.2.0",
     "opn": "^0.1.1",
-    "streamqueue": "0.0.7",
-    "wiredep": "^1.6.2",
-    "tiny-lr": "0.0.7",
-    "ecstatic": "~0.5.3",
-    "http": "0.0.0",
-    "gulp-sass": "~0.7.1",
     "path": "~0.4.9",
-    "browser-sync": "~0.9.1"
+    "streamqueue": "0.0.7",
+    "tiny-lr": "0.0.7",
+    "wiredep": "^1.6.2"
   },
   "engines": {
     "node": ">=0.8.0"

@@ -1,8 +1,10 @@
 <h1>TEST</h1>
-
-<div class="mon-card" ng-repeat="pokemon in pokemons">
-    {{pokemon.dex_id}}
-    {{pokemon.name}}
-    {{pokemon.tier}}
-    {{pokemon.item}}
+<input type="text" ng-model="searchText">
+<div class="mon-card" ng-repeat="pokemon in pokemons | filter:searchText">
+    <span>{{pokemon.dex_id}}</span>
+    <span>{{pokemon.name}}</span>
+    <span>{{pokemon.tier}}</span>
+    <span>{{pokemon.item}}</span>
+    <div ng-repeat="type in pokemon.type">{{type}}</div>
+    <br>
 </div>
