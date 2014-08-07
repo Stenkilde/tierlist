@@ -272,7 +272,7 @@
     {
         "dex_id": 681,
         "name": "Aegislash",
-        "tier": "uber",
+        "tier": "OU",
         "item": false,
         "type": [
             "Steel",
@@ -280,6 +280,548 @@
         ],
         "baseStats": [
         ]
-    }
+    },
+    {
+        "dex_id": 184,
+        "name": "Azumarill",
+        "tier": "OU",
+        "item": false,
+        "type": [
+            "Water",
+            "Fairy"
+        ],
+        "baseStats": [
+        ]
+    },
+    {
+        "dex_id": 625,
+        "name": "Bisharp",
+        "tier": "OU",
+        "item": false,
+        "type": [
+            "Dark",
+            "Steel"
+        ],
+        "baseStats": [
+        ]
+    },
+    {
+        "dex_id": 286,
+        "name": "Breloom",
+        "tier": "OU",
+        "item": false,
+        "type": [
+            "Grass",
+            "Fighting"
+        ],
+        "baseStats": [
+        ]
+    },
+    {
+        "dex_id": 113,
+        "name": "Chansey",
+        "tier": "OU",
+        "item": false,
+        "type": [
+            "Normal"
+        ],
+        "baseStats": [
+        ]
+    },
+    {
+        "dex_id": 6,
+        "name": "Charizard",
+        "tier": "OU",
+        "item": false,
+        "type": [
+            "Fire",
+            "Flying"
+        ],
+        "baseStats": [
+        ]
+    },
+    {
+        "dex_id": 036,
+        "name": "Clefable",
+        "tier": "OU",
+        "item": false,
+        "type": [
+            "Fairy"
+        ],
+        "baseStats": [
+        ]
+    },
+    {
+        "dex_id": 534,
+        "name": "Conkeldurr",
+        "tier": "OU",
+        "item": false,
+        "type": [
+            "Fighting"
+        ],
+        "baseStats": [
+        ]
+    },
+    {
+        "dex_id": 149,
+        "name": "Dragonite",
+        "tier": "OU",
+        "item": false,
+        "type": [
+            "Dragon",
+            "Flying"
+        ],
+        "baseStats": [
+        ]
+    },
+    {
+        "dex_id": 196,
+        "name": "Espeon",
+        "tier": "OU",
+        "item": false,
+        "type": [
+            "Psychic"
+        ],
+        "baseStats": [
+        ]
+    },
+    {
+        "dex_id": 530,
+        "name": "Excadrill",
+        "tier": "OU",
+        "item": false,
+        "type": [
+            "Ground",
+            "Steel"
+        ],
+        "baseStats": [
+        ]
+    },
+    {
+        "dex_id": 598,
+        "name": "Ferrothorn",
+        "tier": "OU",
+        "item": false,
+        "type": [
+            "Grass",
+            "Stell"
+        ],
+        "baseStats": [
+        ]
+    },
+    {
+        "dex_id": 445,
+        "name": "Garchomp",
+        "tier": "OU",
+        "item": false,
+        "type": [
+            "Dragon",
+            "Ground"
+        ],
+        "baseStats": [
+        ]
+    },
+    {
+        "dex_id": 282,
+        "name": "Gardevoir",
+        "tier": "OU",
+        "item": false,
+        "type": [
+            "Psychic",
+            "Fairy"
+        ],
+        "baseStats": [
+        ]
+    },
+    {
+        "dex_id": 282,
+        "name": "Gardevoir",
+        "tier": "OU",
+        "item": false,
+        "type": [
+            "Psychic",
+            "Fairy"
+        ],
+        "baseStats": [
+        ]
+    },
+    {
+        "dex_id": 94,
+        "name": "Gengar",
+        "tier": "OU",
+        "item": false,
+        "type": [
+            "Ghost",
+            "Poison"
+        ],
+        "baseStats": [
+        ]
+    },
+    {
+        "dex_id": 472,
+        "name": "Gliscor",
+        "tier": "OU",
+        "item": false,
+        "type": [
+            "Ground",
+            "Flying"
+        ],
+        "baseStats": [
+        ]
+    },
+    {
+        "dex_id": 658,
+        "name": "Greninja",
+        "tier": "OU",
+        "item": false,
+        "type": [
+            "Water",
+            "Dark"
+        ],
+        "baseStats": [
+        ]
+    },
+    {
+        "dex_id": 130,
+        "name": "Gyarados",
+        "tier": "OU",
+        "item": false,
+        "type": [
+            "Water",
+            "Flying"
+        ],
+        "baseStats": [
+        ]
+    },
+    {
+        "dex_id": 485,
+        "name": "Heatran",
+        "tier": "OU",
+        "item": false,
+        "type": [
+            "Fire",
+            "Steel"
+        ],
+        "baseStats": [
+        ]
+    },
+    {
+        "dex_id": 647,
+        "name": "Keldeo",
+        "tier": "OU",
+        "item": false,
+        "type": [
+            "Water",
+            "Fighting"
+        ],
+        "baseStats": [
+        ]
+    },
+    {
+        "dex_id": 645,
+        "name": "Landorus",
+        "tier": "OU",
+        "item": false,
+        "type": [
+            "Ground",
+            "Flying"
+        ],
+        "baseStats": [
+        ]
+    },
+    {
+        "dex_id": 380,
+        "name": "Latias",
+        "tier": "OU",
+        "item": false,
+        "type": [
+            "Dragon",
+            "Psychic"
+        ],
+        "baseStats": [
+        ]
+    },
+    {
+        "dex_id": 380,
+        "name": "Latios",
+        "tier": "OU",
+        "item": false,
+        "type": [
+            "Dragon",
+            "Psychic"
+        ],
+        "baseStats": [
+        ]
+    },
+    {
+        "dex_id": 473,
+        "name": "Mamoswine",
+        "tier": "OU",
+        "item": false,
+        "type": [
+            "Ice",
+            "Ground"
+        ],
+        "baseStats": [
+        ]
+    },
+    {
+        "dex_id": 630,
+        "name": "Mandibuzz",
+        "tier": "OU",
+        "item": false,
+        "type": [
+            "Dark",
+            "Flying"
+        ],
+        "baseStats": [
+        ]
+    },
+    {
+        "dex_id": 310,
+        "name": "Manetric",
+        "tier": "OU",
+        "item": false,
+        "type": [
+            "Electric"
+        ],
+        "baseStats": [
+        ]
+    },
+    {
+        "dex_id": 303,
+        "name": "Mawile",
+        "tier": "OU",
+        "item": false,
+        "type": [
+            "Steel",
+            "Fairy"
+        ],
+        "baseStats": [
+        ]
+    },
+    {
+        "dex_id": 308,
+        "name": "Medicam",
+        "tier": "OU",
+        "item": false,
+        "type": [
+            "Fightning",
+            "Psychic"
+        ],
+        "baseStats": [
+        ]
+    },
+    {
+        "dex_id": 127,
+        "name": "Pinsir",
+        "tier": "OU",
+        "item": false,
+        "type": [
+            "Bug",
+            "Flying"
+        ],
+        "baseStats": [
+        ]
+    },
+    {
+        "dex_id": 195,
+        "name": "Quagsire",
+        "tier": "OU",
+        "item": false,
+        "type": [
+            "Water",
+            "Ground"
+        ],
+        "baseStats": [
+        ]
+    },
+    {
+        "dex_id": 479,
+        "name": "Rotom Wash",
+        "tier": "OU",
+        "item": false,
+        "type": [
+            "Electric",
+            "Water"
+        ],
+        "baseStats": [
+        ]
+    },
+    {
+        "dex_id": 212,
+        "name": "Scizor",
+        "tier": "OU",
+        "item": false,
+        "type": [
+            "Bug",
+            "Steel"
+        ],
+        "baseStats": [
+        ]
+    },
+    {
+        "dex_id": 545,
+        "name": "Scolipede",
+        "tier": "OU",
+        "item": false,
+        "type": [
+            "Bug",
+            "Poison"
+        ],
+        "baseStats": [
+        ]
+    },
+    {
+        "dex_id": 227,
+        "name": "Skarmory",
+        "tier": "OU",
+        "item": false,
+        "type": [
+            "Steel",
+            "Flying"
+        ],
+        "baseStats": [
+        ]
+    },
+    {
+        "dex_id": 235,
+        "name": "Smeargle",
+        "tier": "OU",
+        "item": false,
+        "type": [
+            "Normal"
+        ],
+        "baseStats": [
+        ]
+    },
+    {
+        "dex_id": 700,
+        "name": "Sylveon",
+        "tier": "OU",
+        "item": false,
+        "type": [
+            "Fairy"
+        ],
+        "baseStats": [
+        ]
+    },
+    {
+        "dex_id": 663,
+        "name": "Talonflame",
+        "tier": "OU",
+        "item": false,
+        "type": [
+            "Fire",
+            "Flying"
+        ],
+        "baseStats": [
+        ]
+    },
+    {
+        "dex_id": 639,
+        "name": "Terrakion",
+        "tier": "OU",
+        "item": false,
+        "type": [
+            "Rock",
+            "Fighting"
+        ],
+        "baseStats": [
+        ]
+    },
+    {
+        "dex_id": 468,
+        "name": "Togekiss",
+        "tier": "OU",
+        "item": false,
+        "type": [
+            "Fairy",
+            "Flying"
+        ],
+        "baseStats": [
+        ]
+    },
+    {
+        "dex_id": 248,
+        "name": "Tyranitar",
+        "tier": "OU",
+        "item": false,
+        "type": [
+            "Rock",
+            "Dark"
+        ],
+        "baseStats": [
+        ]
+    },
+    {
+        "dex_id": 3,
+        "name": "Venusaur",
+        "tier": "OU",
+        "item": false,
+        "type": [
+            "Grass",
+            "Poison"
+        ],
+        "baseStats": [
+        ]
+    },
+    {
+        "dex_id": 134,
+        "name": "Vaporeon",
+        "tier": "OU",
+        "item": false,
+        "type": [
+            "Water"
+        ],
+        "baseStats": [
+        ]
+    },
+    {
+        "dex_id": 145,
+        "name": "Zapdos",
+        "tier": "OU",
+        "item": false,
+        "type": [
+            "Electric",
+            "Flying"
+        ],
+        "baseStats": [
+        ]
+    },
+    {
+        "dex_id": 637,
+        "name": "Volcarona",
+        "tier": "BL",
+        "item": false,
+        "type": [
+            "Bug",
+            "Fire"
+        ],
+        "baseStats": [
+        ]
+    },
+    {
+        "dex_id": 461,
+        "name": "Weavile",
+        "tier": "BL",
+        "item": false,
+        "type": [
+            "Dark",
+            "Ice"
+        ],
+        "baseStats": [
+        ]
+    },
+    {
+        "dex_id": "",
+        "name": "Alakazite",
+        "tier": "BL",
+        "item": false,
+        "type": [
+        ],
+        "baseStats": [
+        ]
+    },
   ]
 }
