@@ -1,0 +1,9 @@
+.pokemon-card {
+    @include panel();
+    span {
+        display: block;
+        &.type {
+            display: inline-block;
+        }
+    }
+}

@@ -1,3 +1,4 @@
+@charset "UTF-8";
 /*! normalize.css v2.1.2 | MIT License | git.io/normalize */
 /* ==========================================================================
      HTML5 display definitions
@@ -4143,6 +4144,7 @@ kbd {
     -webkit-transform: rotate(360deg);
   }
 }
+
 @keyframes rotate {
   from {
     -webkit-transform: rotate(0deg);
@@ -4154,6 +4156,7 @@ kbd {
     transform: rotate(360deg);
   }
 }
+
 /* Orbit Graceful Loading */
 .slideshow-wrapper {
   position: relative;
@@ -4244,7 +4247,7 @@ kbd {
   left: 10px;
   font-size: 12px;
   color: white;
-  background: transparent;
+  background: rgba(0, 0, 0, 0);
   z-index: 10;
 }
 .orbit-container .orbit-slide-number span {
@@ -5654,7 +5657,8 @@ blockquote p {
 
   @page {
     margin: 0.5cm;
-  }
+}
+
   p,
   h2,
   h3 {
@@ -6095,7 +6099,7 @@ ul.off-canvas-list li a:hover {
   left: 0;
   right: 0;
   z-index: 1002;
-  -webkit-tap-highlight-color: transparent;
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
 @media only screen and (min-width: 40.063em) {
   .move-right .exit-off-canvas:hover {
@@ -6121,7 +6125,7 @@ ul.off-canvas-list li a:hover {
   left: 0;
   right: 0;
   z-index: 1002;
-  -webkit-tap-highlight-color: transparent;
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
 @media only screen and (min-width: 40.063em) {
   .move-left .exit-off-canvas:hover {
@@ -6148,7 +6152,7 @@ ul.off-canvas-list li a:hover {
   left: 0;
   right: 0;
   z-index: 1002;
-  -webkit-tap-highlight-color: transparent;
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
 @media only screen and (min-width: 40.063em) {
   .offcanvas-overlap .exit-off-canvas:hover {
@@ -7175,4 +7179,51 @@ th.hide-for-touch {
   th.show-for-print {
     display: table-cell !important;
   }
+}
+.pokemon-card {
+  border-style: solid;
+  border-width: 1px;
+  border-color: #d8d8d8;
+  margin-bottom: 1.25rem;
+  padding: 1.25rem;
+  background: #f2f2f2;
+}
+.pokemon-card > :first-child {
+  margin-top: 0;
+}
+.pokemon-card > :last-child {
+  margin-bottom: 0;
+}
+.pokemon-card h1, .pokemon-card h2, .pokemon-card h3, .pokemon-card h4, .pokemon-card h5, .pokemon-card h6, .pokemon-card p, .pokemon-card li, .pokemon-card dl {
+  color: #333333;
+}
+.pokemon-card h1, .pokemon-card h2, .pokemon-card h3, .pokemon-card h4, .pokemon-card h5, .pokemon-card h6 {
+  line-height: 1;
+  margin-bottom: 0.625rem;
+}
+.pokemon-card h1.subheader, .pokemon-card h2.subheader, .pokemon-card h3.subheader, .pokemon-card h4.subheader, .pokemon-card h5.subheader, .pokemon-card h6.subheader {
+  line-height: 1.4;
+}
+.pokemon-card span {
+  display: block;
+}
+.pokemon-card span.type {
+  display: inline-block;
+}
+
+.fluid-row {
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 0;
+  margin-bottom: 0;
+  max-width: 62.5rem;
+  width: 100%;
+}
+.fluid-row:before, .fluid-row:after {
+  content: " ";
+  display: table;
+}
+.fluid-row:after {
+  clear: both;
 }

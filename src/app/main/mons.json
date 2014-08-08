@@ -1,18 +1,6 @@
 {
   "pokemons":[
     {
-        "dex_id": 493,
-        "name": "Arceus",
-        "item": false,
-        "tier": "uber",
-        "type": [
-            "Normal"
-        ],
-        "baseStats": [
-
-        ]
-    },
-    {
         "dex_id": 257,
         "name": "Blaziken",
         "tier": "uber",
@@ -20,6 +8,18 @@
         "type": [
             "Fire",
             "Fighting"
+        ],
+        "baseStats": [
+
+        ]
+    },
+    {
+        "dex_id": 493,
+        "name": "Arceus",
+        "item": false,
+        "tier": "uber",
+        "type": [
+            "Normal"
         ],
         "baseStats": [
 
